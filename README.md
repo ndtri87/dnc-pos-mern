@@ -8,3 +8,4 @@
    MONGO_URI = mongodb://localhost:27017/pos
 4. start app: npm run dev
 5. seed item: npm run seeder.js
+# dnc-pos-mern
