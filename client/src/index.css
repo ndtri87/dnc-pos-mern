@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&family=Sora&display=swap");
+
+body {
+  font-family: "Sora", sans-serif;
+}
+
+/*========= register page ===========*/
+.register {
+  display: flex;
+  align-items: center;
+  border: 1px solid gray;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
